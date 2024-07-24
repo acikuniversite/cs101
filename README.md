@@ -1,11 +1,11 @@
 # cs101
 ## Computer Science 101
 
-### Week 1 - Introduction
+### [Week 1 - Introduction](./week1)
 
-### Week 2 – Tools and Purposes
+### [Week 2 – Tools and Purposes](./week2)
 
-### Week 3 – Working Areas and Titles
+### [Week 3 – Working Areas and Titles](./week3)
 
 ### Week 4 - ...
 
