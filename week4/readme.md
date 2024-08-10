@@ -197,7 +197,7 @@ Agile is widely used across various industries and project types due to its adap
 ### Benefits of Agile
 
 - **Flexibility and Adaptability:** Agile allows teams to adapt quickly to changes, reducing risks associated with changing requirements.
-- C**ustomer Focus:** Frequent feedback loops ensure that the final product meets customer needs and expectations.
+- **Customer Focus:** Frequent feedback loops ensure that the final product meets customer needs and expectations.
 - **Improved Collaboration:** Agile promotes open communication and collaboration among team members and stakeholders.
 - **Faster Time to Market:** Incremental deliveries ensure that valuable features reach users sooner.
 - **Enhanced Quality:** Continuous testing and integration improve product quality and reduce defects.
