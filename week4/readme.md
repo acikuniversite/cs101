@@ -196,44 +196,45 @@ Agile is widely used across various industries and project types due to its adap
 
 ### Benefits of Agile
 
-- Flexibility and Adaptability: Agile allows teams to adapt quickly to changes, reducing risks associated with changing requirements.
-- Customer Focus: Frequent feedback loops ensure that the final product meets customer needs and expectations.
-- Improved Collaboration: Agile promotes open communication and collaboration among team members and stakeholders.
-- Faster Time to Market: Incremental deliveries ensure that valuable features reach users sooner.
-- Enhanced Quality: Continuous testing and integration improve product quality and reduce defects.
+- **Flexibility and Adaptability:** Agile allows teams to adapt quickly to changes, reducing risks associated with changing requirements.
+- C**ustomer Focus:** Frequent feedback loops ensure that the final product meets customer needs and expectations.
+- **Improved Collaboration:** Agile promotes open communication and collaboration among team members and stakeholders.
+- **Faster Time to Market:** Incremental deliveries ensure that valuable features reach users sooner.
+- **Enhanced Quality:** Continuous testing and integration improve product quality and reduce defects.
 
 ### Challenges of Agile
-- Cultural Shift: Requires a shift in mindset and culture, which can be difficult for traditional organizations.
-- Scalability: Scaling Agile practices to large organizations or distributed teams can be challenging.
-- Resource Management: Balancing resources and managing workload can be complex in an Agile environment.
+
+- **Cultural Shift:** Requires a shift in mindset and culture, which can be difficult for traditional organizations.
+- **Scalability:** Scaling Agile practices to large organizations or distributed teams can be challenging.
+- **Resource Management:** Balancing resources and managing workload can be complex in an Agile environment.
 
 Overall, Agile is a versatile approach that can be adapted to various project types and industries, offering a way to manage uncertainty and deliver value continuously.
 
 ### Core Agile Terms
 
-- Agile Manifesto: A set of values and principles that guide Agile development.
-- Agile Framework: A structured approach to implementing Agile principles, such as Scrum, Kanban, or Extreme Programming (XP).
-- Iteration: A short development cycle, typically lasting 2-4 weeks, where a specific set of features is developed and released.
-- Increment: A shippable product or feature delivered at the end of an iteration.
-- Backlog: A prioritized list of work items to be completed.
-- Sprint: A time-boxed period (usually 2-4 weeks) during which a team works to complete a set of work items.
+- **Agile Manifesto:** A set of values and principles that guide Agile development.
+- **Agile Framework:** A structured approach to implementing Agile principles, such as Scrum, Kanban, or Extreme Programming (XP).
+- **Iteration:** A short development cycle, typically lasting 2-4 weeks, where a specific set of features is developed and released.
+- **Increment:** A shippable product or feature delivered at the end of an iteration.
+- **Backlog:** A prioritized list of work items to be completed.
+- **Sprint:** A time-boxed period (usually 2-4 weeks) during which a team works to complete a set of work items.
 
 ### Scrum-Specific Terms
 
-- Product Owner: The person responsible for maximizing the value of the product.
-- Scrum Master: The facilitator of the Scrum process.
-- Development Team: A self-organizing team responsible for delivering the product.
-- Daily Scrum: A daily meeting where the team discusses progress, challenges, and plans for the day.
-- Sprint Planning: A meeting to plan the work for the upcoming sprint.
-- Sprint Review: A meeting to demonstrate the completed work and gather feedback.
-- Sprint Retrospective: A meeting to reflect on the past sprint and identify improvements.
-- Burndown Chart: A visual representation of the work remaining in a sprint.
+- **Product Owner:** The person responsible for maximizing the value of the product.
+- **Scrum Master:** The facilitator of the Scrum process.
+- **Development Team:** A self-organizing team responsible for delivering the product.
+- **Daily Scrum:** A daily meeting where the team discusses progress, challenges, and plans for the day.
+- **Sprint Planning:** A meeting to plan the work for the upcoming sprint.
+- **Sprint Review:** A meeting to demonstrate the completed work and gather feedback.
+- **Sprint Retrospective:** A meeting to reflect on the past sprint and identify improvements.
+- **Burndown Chart:** A visual representation of the work remaining in a sprint.
 
 ### Additional Agile Terms
 
-- User Story: A description of a desired feature from the user's perspective.
-- Acceptance Criteria: The conditions that must be met for a user story to be considered complete.
-- Epic: A large body of work that can be broken down into smaller user stories.
+- **User Story:** A description of a desired feature from the user's perspective.
+- **Acceptance Criteria:** The conditions that must be met for a user story to be considered complete.
+- **Epic:** A large body of work that can be broken down into smaller user stories.
 
 ![alt text](image-1.png)
 
@@ -241,27 +242,29 @@ Overall, Agile is a versatile approach that can be adapted to various project ty
 
 DevOps is a set of practices that combines software development (Dev) and IT operations (Ops) to shorten the development life cycle and provide continuous delivery with high software quality. It emphasizes collaboration and communication between developers and IT professionals while automating the process of software delivery and infrastructure changes.
 
+![alt text](image-2.png)
+
 ### Key Principles of DevOps:
 
-1.	Collaboration: Encourages close cooperation between development and operations teams.
-2.	Automation: Automates repetitive tasks to increase efficiency and reduce errors.
-3.	Continuous Integration/Continuous Deployment (CI/CD): Integrates code changes frequently and deploys them automatically.
-4.	Monitoring and Logging: Continuously monitors applications and infrastructure to identify and resolve issues quickly.
-5.	Infrastructure as Code (IaC): Manages infrastructure using code and software development techniques.
+1.	**Collaboration:** Encourages close cooperation between development and operations teams.
+2.	**Automation:** Automates repetitive tasks to increase efficiency and reduce errors.
+3.	**Continuous Integration/Continuous Deployment (CI/CD):** Integrates code changes frequently and deploys them automatically.
+4.	**Monitoring and Logging:** Continuously monitors applications and infrastructure to identify and resolve issues quickly.
+5.	**Infrastructure as Code (IaC):** Manages infrastructure using code and software development techniques.
 
 
 ### Applications of DevOps:
 
-1.	Continuous Integration and Delivery: Automating the build, test, and deployment processes to ensure rapid and reliable delivery of software.
-2.	Microservices: Facilitates the development and management of microservices architectures by automating their deployment and scaling.
+1.	**Continuous Integration and Delivery:** Automating the build, test, and deployment processes to ensure rapid and reliable delivery of software.
+2.	**Microservices:** Facilitates the development and management of microservices architectures by automating their deployment and scaling.
 3.	Cloud Computing: Enhances the management and deployment of applications on cloud platforms, utilizing the scalability and flexibility of cloud resources.
-4.	Infrastructure Management: Uses Infrastructure as Code to provision and manage infrastructure efficiently, reducing manual interventions.
-5.	Security: Integrates security practices into the DevOps process, often referred to as DevSecOps, ensuring that security is an integral part of the software development lifecycle.
-6.	Monitoring and Logging: Implements robust monitoring and logging solutions to track application performance and detect issues in real-time.
+4.	**Infrastructure Management:** Uses Infrastructure as Code to provision and manage infrastructure efficiently, reducing manual interventions.
+5.	**Security:** Integrates security practices into the DevOps process, often referred to as DevSecOps, ensuring that security is an integral part of the software development lifecycle.
+6.	**Monitoring and Logging:** Implements robust monitoring and logging solutions to track application performance and detect issues in real-time.
 
 By adopting DevOps practices, organizations can achieve faster delivery of software, improved quality, and better alignment between development and operations, ultimately leading to enhanced customer satisfaction.
 
-***DevOps processes** involve a set of practices and tools designed to automate and improve the collaboration between software development and IT operations teams. These processes aim to deliver software more efficiently and reliably. Here are some of the key processes in DevOps:
+**DevOps processes** involve a set of practices and tools designed to automate and improve the collaboration between software development and IT operations teams. These processes aim to deliver software more efficiently and reliably. Here are some of the key processes in DevOps:
 
 1.	Continuous Integration (CI):
     - Definition: Developers frequently integrate code changes into a shared repository.
@@ -307,8 +310,6 @@ By adopting DevOps practices, organizations can achieve faster delivery of softw
     - Definition: Enhancing teamwork and communication between development, operations, and other stakeholders.
     - Goal: Break down silos and foster a culture of shared responsibility.
     - Tools: Slack, Microsoft Teams, Confluence. 
-
-![alt text](image-2.png)
 
 ![alt text](image-3.png)
 
