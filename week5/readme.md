@@ -132,7 +132,7 @@ Security teams can vary in size and composition depending on the organization's 
 
 1.	**Testing Shows the Presence of Defects:** Testing can only reveal the presence of defects, not their absence.Exhaustive testing is generally impractical.
 2.	**Testing Cannot Prove the Absence of Defects:** Even if no defects are found during testing, it doesn't guarantee that there are none.
-3.	**Early Testing:**Testing should start as early as possible in the development lifecycle to catch defects earlier, when they are easier and cheaper to fix.
+3.	**Early Testing:** Testing should start as early as possible in the development lifecycle to catch defects earlier, when they are easier and cheaper to fix.
 4.	**Exhaustive Testing Is Impossible:** It's impossible to test every possible combination of inputs and conditions.
 5.	**Independent Testing:** Testing should be conducted by an independent team to avoid bias and ensure objectivity.
 6.	**Defects Cluster:** Defects tend to cluster in certain areas of the software, so testing efforts can be focused on those areas.
@@ -149,10 +149,10 @@ Security teams can vary in size and composition depending on the organization's 
 
 **White Box Testing:**
 
-- Control Flow Analysis: Examines the control flow of the code to identify potential paths and test them.   
-- Data Flow Analysis: Tracks the flow of data through the code to identify potential errors.   
-- Branch Coverage: Ensures that all branches of the code are executed at least once.   
-- Statement Coverage: Ensures that all statements of the code are executed at least once.   
+- **Control Flow Analysis:** Examines the control flow of the code to identify potential paths and test them.   
+- **Data Flow Analysis:** Tracks the flow of data through the code to identify potential errors.   
+- **Branch Coverage:** Ensures that all branches of the code are executed at least once.   
+- **Statement Coverage:** Ensures that all statements of the code are executed at least once.   
 
 **Functional Testing:**
 
